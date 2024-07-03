@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devendra Deore</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendradeore&label=Profile%20views&color=0e75b6&style=flat" alt="devendradeore" /> </p>
 
-
-- 🌱 I’m currently learning **React,Angular**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 🔭 I’m currently working on **Data Analytics,Web Developement**
+  
+- 🌱 I’m currently learning **Data Structure,MERN**
 
 - 📫 How to reach me **1002deoredk@gmail.com**
 
